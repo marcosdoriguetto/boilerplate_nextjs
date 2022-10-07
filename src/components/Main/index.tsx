@@ -3,7 +3,7 @@ import * as S from './styles'
 const Main = () => (
   <S.Wrapper>
     <S.Logo
-      src="/img/logo.svg"
+      src="/img/icon-192.png"
       alt="Imagem de um átomo e Boilerplate escrito ao lado."
     />
 
